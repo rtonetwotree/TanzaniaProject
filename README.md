@@ -26,13 +26,11 @@ The first step we took was making the data more accessable and manipulatible by 
 
 Based off of our exploration we chose Basin, Payment Type, and waterpoint type as the three most important variables that contribute to box office success and this was confirmed by both the logistical regression and decision tree models we ran.
 
+![Waterpoint_type](https://github.com/Keys2610/TanzaniaProject/assets/151547876/870d35e4-9d95-4efd-9c7c-209c46bf3404)
+
+![Payment_Type](https://github.com/Keys2610/TanzaniaProject/assets/151547876/c990a442-51f1-4f73-9035-3f607639bb2e)
 
 
-![Alt text](Waterpoint_type.png)
-
-
-
-![Alt text](Payment_Type.png)
 
 
 
@@ -54,7 +52,8 @@ Minimum sample split 3
 
 This model was able to predict weather a well was funtional based on the feature set with over 75% accuracy.
 
-![Alt text](decision_tree.png)
+![decision_tree](https://github.com/Keys2610/TanzaniaProject/assets/151547876/c9cb0da5-bdb0-4db9-804d-70ffdf543f35)
+
 
 
 

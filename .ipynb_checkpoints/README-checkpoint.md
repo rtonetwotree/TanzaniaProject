@@ -37,15 +37,9 @@ Based off of our exploration we chose Basin, Payment Type, and waterpoint type a
 
 # Logistic Regression Model
 
-We built and made attempts at tuning different versions of a logistic regression model, eventually settling on the simplest model version that
-was able to achieve our LogReg model high-water-mark accuracy score (a bit over 0.78). This is a binary model, scrapping the third classification
-bin in order to improve our model's predictive success. The ternary model is still viable and has predictive capabilities significantly different
-from baseline, and we have included a version in the LogReg notebook.
 
-We were able to tune the model by Hyperparamaterization on C cross-validation, however we did not implement this optimization in our model because
-it added a layer of complexity (required scaling to run) without improving our accuracy score.
 
-Despite having a viable LogReg model, we hold our Decision Tree as the primary predictive model from our findings.
+
 
 
 # Decision Tree Model
